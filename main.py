@@ -1,1 +1,3 @@
-#WRITE YOUR CODE IN THIS FILE
+myList = ["cat", "dog", "pig", "bear"]
+myList.append("bear")
+print(myList)
